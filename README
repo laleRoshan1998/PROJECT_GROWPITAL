@@ -1,0 +1,44 @@
+
+# PROJECT_GROWPITAL
+***
+
+
+# Web scraping with node.js, request, and cheerio
+
+Clone the repository and run npm i
+
+After that, you just need to run the file name
+
+## use of this project
+with the help of this project can seed shorded data of link. we can sort all the data as we want. we can see data of specific image like as well.
+
+## Installing
+After installing Node.js your should be able to just run the following in the terminal.
+
+## npm init -y
+
+1. node.js
+      .npm i node.js
+2. fs module
+     .npm i fs
+3. readline-sync
+     .npm i readline-sync
+4. request
+     .npm i request
+5. cheerio
+     .npm i cheerio
+     
+     
+## Build with
+
+# Node.js - Node.js
+# Request - Request based HTTP request package
+# Cheerio = cheerio HTML parser that uses jquery selectors
+
+## Scraping them
+
+I have scraped the links of images inside this website (http://www.gropital.com)
+
+After downloading the files you will understand we should use 2 libraries: first cheerio
+And the other one is Request.
+After installing you can check the result by typing node crape
